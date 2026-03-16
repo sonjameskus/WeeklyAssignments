@@ -1,0 +1,75 @@
+h1 {
+    font-family: "Bookman Old Style";
+    color: white;
+}
+
+p {
+    font-family: "Bookman Old Style";
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.row {
+    margin: 5%;
+    text-align: center;
+}
+
+.column {
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 5px dotted darkred;
+    padding: 10px;
+    text-align: center;
+}
+
+.row2 {
+    display: flex;
+    align-content: center;
+}
+
+img {
+    border: 5px dotted darkred;
+    border-radius: 15px;
+}
+
+a {
+    color: white;
+    font-family: "Bookman Old Style";
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+hr {
+    border: 1px dotted darkred;
+}
+
+table {
+    color: white;
+    width: 50%;
+    border: 5px dotted darkred;
+}
+
+.eka {
+    font-family: "Bookman Old Style";
+}
+
+.toka {
+    background-color: white;
+    color: black;
+    font-family: "Bookman Old Style";
+}
+
+ul {
+    align-items: center;
+    text-align: left;
+    list-style-image: url("check.png");
+    font-family: "Bookman Old Style";
+    color: white;
+}
